@@ -1,4 +1,4 @@
-package pojo.post;
+package pojo.post.register;
 
 public class UnsuccessfulReg {
 
